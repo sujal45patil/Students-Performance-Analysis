@@ -102,5 +102,6 @@ See [`Reports/Student_Performance_Report.pdf`](Reports/Student_Performance_Repor
 
 ## Author
 
-**Your Name**  
-Add your LinkedIn and GitHub profile links here.
+**Sujal Patil**  
+linkedin.com/in/sujal-patil-844947294/ 
+github.com/sujal45patil
